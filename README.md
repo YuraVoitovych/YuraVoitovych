@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yuri</h1>
+<h1 align="center">Hi 👋, I'm Yurii</h1>
 - 🌱 I’m currently learning **Java**
 
 <h3 align="left">Connect with me:</h3>
